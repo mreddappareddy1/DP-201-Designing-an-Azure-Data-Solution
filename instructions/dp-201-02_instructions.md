@@ -47,7 +47,7 @@ The main task for this exercise is as follows:
 
 ### Task 1: List batch mode processing requirements for AdventureWorks
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab02_Ex01_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab02_Ex01_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.2** folder.
 
 1. As a group, spend **15 minutes** discussing and listing the requirements that would form part of the Enterprise BI solution in AdventureWorks. Evidence should be provided from the case study.
 
@@ -55,7 +55,7 @@ The main task for this exercise is as follows:
 
 ### Task 2: Build a high level Architecture that reflects the Enterprise BI solution in AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex01_Ta02.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex01_Ta02.docx** from the **Allfiles\Labfiles\Starter\DP-201.2** folder.
 
 1. As a group, spend **20 minutes** discussing and diagraming the architectures that would form part of the Enterprise BI solution in AdventureWorks. You can use the png files in the icon folder to build your architecture.
 
@@ -71,7 +71,7 @@ The main task for this exercise is as follows:
 
 ### Task 1: Amend a high level architecture to include automation of an Enterprise BI solution in AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex02_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder. Read the document and review the example.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex02_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.2** folder. Read the document and review the example.
 
 1. As a group, spend **15 minutes** reviewing the architectures that you have defined as part of the Enterprise BI solution in AdventureWorks in the document **DP-201-Lab01_Ex01_Ta02.docx**. Add the Data Factory icon to the workflows that would be automated by Data Factory. You can use the png files in the icon folder to build your architecture.
 
@@ -87,7 +87,7 @@ The main task for this exercise is as follows:
 
 ### Task 1: Architect an Enterprise-grade conversational bot in Azure
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex03_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder. Read the document and review the example.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01_Ex03_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.2** folder. Read the document and review the example.
 
 1. As a group, spend **10 minutes** discussing and diagraming the architectures that would form part of an Enterprise-grade conversational bot in  AdventureWorks. You can use the png files in the icon folder to build your architecture.
 
